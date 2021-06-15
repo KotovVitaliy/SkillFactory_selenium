@@ -1,6 +1,6 @@
 # SkillFactory - Selenium tests
 
-## Asserts
+## Assets
 1. Download Selenium Server - 'jar' file;
 2. Download Chromedriver
 3. Download Geckodriver
